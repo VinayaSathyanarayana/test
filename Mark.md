@@ -3,7 +3,7 @@
 ### Solar System Exploration, 1950s – 1960s
 
 - [ ] Mercury
-- [x] Venus
+- [ ] Venus
 - [x] Earth (Orbit/Moon)
 - [x] Mars
 - [ ] Jupiter
